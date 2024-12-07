@@ -7,3 +7,8 @@
 ## https://github.com/OccupyMars2025/Computer-Organization-and-Design-The-Hardware-Software-Interface-RISC-V-Edition
 ## https://github.com/PKUFlyingPig/RISC-V_CPU
 ## https://github.com/logisim-evolution
+
+
+---
+
+### C language: https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c
