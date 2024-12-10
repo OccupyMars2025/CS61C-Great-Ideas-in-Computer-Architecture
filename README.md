@@ -1,7 +1,8 @@
 # start: 2024/12/7 18:00
 # 💯
 
-# 2024/12/8 stop at discussion 1: https://cs61c.org/fa24/discussions/disc01/
+- [ ] 2024/12/7 18:00 - 12/9 12:00: Lecture 1, 2, 3
+- [ ] 2024/12/9 12:00 - : Lecture 4
 ---
 
 ## [csdiy](https://csdiy.wiki/en/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CS61C/)
